@@ -1072,6 +1072,9 @@ input[type="submit"]#submit-donation-btn {
      width: 90%;
      margin: 0 auto;
      padding: 24px 10px;
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
 }
 
 .footer-logo {
